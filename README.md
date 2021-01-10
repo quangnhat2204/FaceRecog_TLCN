@@ -1,6 +1,6 @@
 #TLCN Face Recognize with Flask___UTE
-Nhận diện khuôn mặt khá chuẩn xác bằng MTCNN và Facenet!
 
+Nhận diện khuôn mặt khá chuẩn xác bằng MTCNN và Facenet!
 Article link: http://ainoodle.tech/2019/09/11/face-recog-2-0-nhan-dien-khuon-mat-trong-video-bang-mtcnn-va-facenet/
 
 #MìAI 
